@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBinodBist
-- 👀 I’m interested in Next.js, MERN Stack
-- 🌱 I’m currently learning  Next.js
+- 👀 I’m interested in React Native, MERN Stack
+- 🌱 I’m currently learning  React Native
 - 📫 How to reach me - thebinodbist@gmail.com
 - 😄 Pronouns: ...he/him
 
