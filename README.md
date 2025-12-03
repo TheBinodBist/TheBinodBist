@@ -1,4 +1,6 @@
-#👋 Hi, I'm Binod Bist
+👋 Hi, I'm Binod Bist
+
+
 🌐 Full Stack Developer
 I’m a passionate Full Stack Developer specializing in crafting scalable, interactive, and high-performance applications usingJavaScript, React, Next.js, Node.js, Express, MongoDB, React Native, Tailwind CSSand modern UI frameworks. I love building clean, visually appealing, and user-centric web and mobile applications from end to end.
 
