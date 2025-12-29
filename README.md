@@ -1,6 +1,7 @@
 👇
 
 👋 Hi, I'm Binod Bist
+
 🌐 Frontend Developer
 
 I’m a passionate Frontend Developer focused on building beautiful, responsive, and high-performance web & mobile interfaces using React, Next.js, React Native, and NativeWind.
