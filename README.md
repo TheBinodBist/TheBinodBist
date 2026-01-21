@@ -10,29 +10,30 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=700&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Binod+Bist+%F0%9F%91%8B;Full-Stack+Developer+%7C+Django+%2B+Next.js;React+%2B+TypeScript+%7C+PostgreSQL+%7C+MongoDB;Building+fast%2C+secure%2C+scalable+web+apps" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=700&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Binod+Bist+%F0%9F%91%8B;Full-Stack+Developer+%7C+Django+%2B+Next.js;React+%2B+TypeScript+%7C+PostgreSQL+%7C+MongoDB;Building+fast%2C+secure%2C+scalable+web+apps"
+    alt="Typing SVG"
+  />
 </p>
 
-<!-- Quick Badges -->
+<!-- Quick Badges (No Stars) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thebinodbist&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/thebinodbist?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/thebinodbist?style=for-the-badge" />
 </p>
 
 <!-- Socials -->
 <p align="center">
   <!-- Replace links with your real ones -->
-  <a href="https://www.linkedin.com/thebinodbist">
+  <a href="https://www.linkedin.com/in/thebinodbist">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/thebinodbist">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:thebinobist@gmail.com">
+  <a href="mailto:thebinodbist@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
 </p>
 
 ---
@@ -105,7 +106,7 @@ To make this work:
 
 ## 🤝 Let’s Connect
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:thebinodbist@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
