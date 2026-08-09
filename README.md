@@ -53,7 +53,7 @@
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postma" />
 </p>
 
 ---
