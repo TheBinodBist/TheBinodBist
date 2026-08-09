@@ -66,7 +66,7 @@
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thebinodbist&theme=github-dark&hide_border=true"/>
 
-</p>ps://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+</p>
 
 </p>
 
